@@ -5,7 +5,7 @@ const Test = () =>{
    <div>
    <h1>Test</h1>
    <h2> divakari </h2>
-  <h2>From Server</h2>
+  <h2>From Server to</h2>
    </div>
    )
 };
